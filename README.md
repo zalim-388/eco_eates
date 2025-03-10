@@ -1,17 +1,23 @@
-# eco_eates
 
-A new Flutter project.
+# Eco Eates 🍽️  
 
-## Getting Started
+A simple **food ordering app** built using **Flutter**. This app showcases a list of food items with cart functionality.  
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
+✅ Product Listing / Food Menu  
+✅ Add to Cart & Checkout System  
+✅ Clean & Simple UI  
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots  
+![Home Screen](assets/screenshots/home_screen.png)  
+![Cart Screen](assets/screenshots/cart_screen.png)  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Tech Stack  
+- **Flutter** - UI Development  
+- **Dart** - Programming Language  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# eco_eates" 
+## 🔥 How to Run?  
+1. Clone the repo:  
+   ```sh
+   git clone https://github.com/zalim-388/eco_eates.git
+   cd eco_eates
